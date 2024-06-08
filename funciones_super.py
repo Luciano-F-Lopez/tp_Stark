@@ -780,8 +780,9 @@ def contador_color_ojos(lista:list, target:str)->int:
         if color == target:
             contador_elemento+= 1
     return contador_elemento
-            
-                
+
+
+
 
 
 
